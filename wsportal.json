@@ -5,7 +5,7 @@
         "OriginUrl": {
             "Description": "The origin url to allow CORS requests from. This will be the base URL of the static website.",
             "Type": "String",
-            "Default": "*"
+            "Default": "https://vsidata.signin.aws.amazon.com/console"
         },
         "AppName": {
             "Type": "String",
