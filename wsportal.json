@@ -24,7 +24,7 @@
         "ApproverEmail": {
             "Type": "String",
             "Description": "Email address that will receive WorkSpace Creation approval requests.",
-            "Default": "hasan.mohiuddin@systemsltd.com"
+            "Default": "muhammad.amin@systemsltd.com"
         },
         "DirectoryServicesId": {
             "Type": "String",
