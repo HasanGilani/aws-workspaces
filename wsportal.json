@@ -24,7 +24,7 @@
         "ApproverEmail": {
             "Type": "String",
             "Description": "Email address that will receive WorkSpace Creation approval requests.",
-            "Default": "muhammad.amin@systemsltd.com"
+            "Default": "Muhammad.Amin@visionet.com"
         },
         "DirectoryServicesId": {
             "Type": "String",
