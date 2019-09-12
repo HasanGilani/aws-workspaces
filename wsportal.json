@@ -19,12 +19,12 @@
         "PortalEmail": {
             "Type": "String",
             "Description": "Address from which emails will be sent from to approvers.",
-            "Default": "Abdullah.Jamshed@visionet.com"
+            "Default": "Muhammad.Amin@visionet.com"
         },
         "ApproverEmail": {
             "Type": "String",
             "Description": "Email address that will receive WorkSpace Creation approval requests.",
-            "Default": "Abdullah.Jamshed@visionet.com"
+            "Default": "Muhammad.Amin@visionet.com"
         },
         "DirectoryServicesId": {
             "Type": "String",
